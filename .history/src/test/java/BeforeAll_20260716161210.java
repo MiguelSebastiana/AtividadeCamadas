@@ -1,0 +1,6 @@
+/**
+ * BeforeAll
+ */
+public @interface BeforeAll {
+
+}

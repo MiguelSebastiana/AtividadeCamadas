@@ -1,0 +1,6 @@
+/**
+ * DisplayName
+ */
+public @interface DisplayName {
+
+}
